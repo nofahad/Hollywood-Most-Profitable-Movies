@@ -8,7 +8,7 @@ Requirements: For the dashboard, use the company's brand colour palette which co
 
 The data is cleaned in R Studio and Exploratory Data Analysis (EDA) was performed. The cleaned dataset is then imported in Microsoft PowerBI Desktop for data visualisation. The dashboard displays the 
 
-1- The Average Rotten Tomatoes Ratings by Genre<br/>
+1- The Average Rotten Tomatoes Ratings by Genre<br>
 2- The Number of Movies produced per Year<br/> 
 3- The Audience Score for each Movie<br/>  
 4- The Profitability per Studio<br/> 
