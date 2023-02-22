@@ -1,3 +1,5 @@
+# Hollywood's Most Profitable Movies 2007-2012
+
 # Data Analysis and Visualisation using R and PowerBI
 
 Aim: To Analyze and Visualise the performance of Hollywood movies using ‘Hollywood Most Profitable Stories’ dataset. This dataset contains Title, Genre, Lead Studio, Profitability, Audience Score, Rotten Tomatoes Ratings and Worldwide Gross Collection for movies released between 2007 and 2012. 
