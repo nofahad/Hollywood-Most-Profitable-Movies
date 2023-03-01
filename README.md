@@ -20,5 +20,6 @@ The data is cleaned in R Studio and Exploratory Data Analysis (EDA) was performe
 8- Movie with Highest Audience Score<br>
 9- Movie with Highest Profit<br>
 
-![image](https://user-images.githubusercontent.com/110288870/220481446-d272882c-56a0-4216-bcfc-93b3c8b647e7.png)
+![image](https://user-images.githubusercontent.com/110288870/222220006-8476a667-f4e0-4f30-a00c-dad7488da8b3.png)
+
 
