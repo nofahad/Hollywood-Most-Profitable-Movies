@@ -1,12 +1,16 @@
 # Hollywood's Most Profitable Movies 2007-2012
 
-# Data Analysis and Visualisation using R and PowerBI
+## Data Analysis and Visualisation using R and PowerBI
 
-Objective: To Analyze and Visualise the performance of Hollywood movies using ‘Hollywood Most Profitable Stories’ dataset. This dataset contains Title, Genre, Lead Studio, Profitability, Audience Score, Rotten Tomatoes Ratings and Worldwide Gross Collection for movies released between 2007 and 2012. 
+### Objective: 
+
+To Analyze and Visualise the performance of Hollywood movies using ‘Hollywood Most Profitable Stories’ dataset. This dataset contains Title, Genre, Lead Studio, Profitability, Audience Score, Rotten Tomatoes Ratings and Worldwide Gross Collection for movies released between 2007 and 2012. 
 
 Data Source: https://public.tableau.com/app/sample-data/HollywoodsMostProfitableStories.csv
 
-Specifications: For the dashboard, use the company's brand colour palette which contains any shades of blue, green and brown.  
+### Specifications: 
+
+For the dashboard, use the company's brand colour palette which contains any shades of blue, green and brown.  
 
 The data is cleaned in R Studio and Exploratory Data Analysis (EDA) was performed. The cleaned dataset is then imported in Microsoft PowerBI Desktop for data visualisation. The dashboard displays the 
 
