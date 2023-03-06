@@ -26,7 +26,7 @@ The data is cleaned in R Studio and Exploratory Data Analysis (EDA) was performe
 8- Movie with Highest Audience Score<br>
 9- Movie with Highest Profit<br>
 
-![image](https://user-images.githubusercontent.com/110288870/222220006-8476a667-f4e0-4f30-a00c-dad7488da8b3.png)
+![image](https://user-images.githubusercontent.com/110288870/223104871-2c4d9ee3-22c0-4b09-bb34-f4839167281b.png)
 
 Based on the findings, Warner Bros. was the profitable Lead Studio and the highest Rotten Tomatoes rating were achieved by movies which fall under the Fantasy Genre. Highest number of movies were produced in the year 2010 where as Comedy was the most profitable Genre with 63.71% worldwide gross business. Tangled was the movie with highest worldwide gross business. Highest Rotten Tomatoes rating were achieved by the movie Enchanted.
 
